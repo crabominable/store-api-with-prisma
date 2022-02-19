@@ -1,1 +1,1 @@
-Olá, meu nome é Lucas Pinheiro e esta é uma API genérica feita em TYPESCRIPT no NODE.JS, utitlizando como framework para gerenciar as requisições e rotas o EXPRESS!! E ainda utilizando a ultima versão do PRISMA ORM para a criação, versionamento, população de tabelas e das models!!
+Olá, meu nome é Lucas Pinheiro e esta é uma API genérica feita em TYPESCRIPT no NODE.JS, utitlizando como framework para gerenciar as requisições e rotas o EXPRESS!! E ainda utilizando a ultima versão do PRISMA ORM para a criação, versionamento, população de tabelas e das models!! 
